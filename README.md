@@ -1,4 +1,4 @@
-# ML Lab 2 - Normalization Techniques
+#  Normalization Techniques
 
 ## Student Details
 Name: Sweezal Suares
